@@ -187,8 +187,8 @@ color:var(--general-wight)
   color:var(--general-wight)
 }
 
-.footer-item [href*="mailto"],
-.footer-item [href*="tel"]
+a .footer-item [href*="mailto"],
+/* .footer-item [href*="tel"] */
 {
   color: rgba(255, 255, 255, 0.6);
 }
